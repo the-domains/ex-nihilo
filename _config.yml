@@ -1,0 +1,14 @@
+layout_spectrum: 0.488424378214404
+typography_spectrum: 0.21432970138266683
+color:
+  brandStrength: 0.4132389361038804
+  lightness: 0.7495765967760235
+  saturation: 0.9104388663545251
+  rhythmicContrast: 0.2754845325835049
+  brandColors:
+    - '#E1E6FA'
+    - '#C4D7ED'
+    - '#ABC8E2'
+    - '#375D81'
+    - '#183152'
+name: ex nihilo
